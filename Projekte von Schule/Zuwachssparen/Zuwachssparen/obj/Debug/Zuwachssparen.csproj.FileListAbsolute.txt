@@ -1,0 +1,16 @@
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\bin\Debug\Zuwachssparen.exe
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\bin\Debug\Zuwachssparen.pdb
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\obj\Debug\Zuwachssparen.Form1.resources
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\obj\Debug\Zuwachssparen.Properties.Resources.resources
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\obj\Debug\Zuwachssparen.csproj.GenerateResource.Cache
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\obj\Debug\Zuwachssparen.exe
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\Zuwachssparen\obj\Debug\Zuwachssparen.pdb
+D:\c#\Zuwachssparen\Zuwachssparen\obj\Debug\Zuwachssparen.exe
+D:\c#\Zuwachssparen\Zuwachssparen\obj\Debug\Zuwachssparen.pdb
+D:\c#\Zuwachssparen\Zuwachssparen\bin\Debug\Zuwachssparen.exe
+D:\c#\Zuwachssparen\Zuwachssparen\bin\Debug\Zuwachssparen.pdb
+D:\c#\Zuwachssparen\Zuwachssparen\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Zuwachssparen\Zuwachssparen\obj\Debug\Zuwachssparen.Form1.resources
+D:\c#\Zuwachssparen\Zuwachssparen\obj\Debug\Zuwachssparen.Properties.Resources.resources
+D:\c#\Zuwachssparen\Zuwachssparen\obj\Debug\Zuwachssparen.csproj.GenerateResource.Cache

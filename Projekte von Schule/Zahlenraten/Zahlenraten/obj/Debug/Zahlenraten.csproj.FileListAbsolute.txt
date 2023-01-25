@@ -1,0 +1,4 @@
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Zahlenraten\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Zahlenraten\obj\Debug\Zahlenraten.Form1.resources
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Zahlenraten\obj\Debug\Zahlenraten.Properties.Resources.resources
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Zahlenraten\obj\Debug\Zahlenraten.csproj.GenerateResource.Cache

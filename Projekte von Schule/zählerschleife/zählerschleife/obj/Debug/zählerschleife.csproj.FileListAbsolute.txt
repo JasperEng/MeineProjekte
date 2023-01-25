@@ -1,0 +1,10 @@
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\bin\Debug\zählerschleife.exe
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\bin\Debug\zählerschleife.pdb
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\obj\Debug\zählerschleife.Form1.resources
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\obj\Debug\zählerschleife.Properties.Resources.resources
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\obj\Debug\zählerschleife.csproj.GenerateResource.Cache
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\obj\Debug\zählerschleife.exe
+C:\Users\Jasper.engeln\AppData\Local\Temporary Projects\zählerschleife\obj\Debug\zählerschleife.pdb
+D:\c#\zählerschleife\zählerschleife\obj\Debug\zählerschleife.exe
+D:\c#\zählerschleife\zählerschleife\obj\Debug\zählerschleife.pdb

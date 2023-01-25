@@ -1,0 +1,10 @@
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\bin\Debug\PaketKostenrechner.exe
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\bin\Debug\PaketKostenrechner.pdb
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\obj\Debug\PaketKostenrechner.Form1.resources
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\obj\Debug\PaketKostenrechner.Properties.Resources.resources
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\obj\Debug\PaketKostenrechner.csproj.GenerateResource.Cache
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\obj\Debug\PaketKostenrechner.exe
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\PaketKostenrechner\obj\Debug\PaketKostenrechner.pdb
+D:\c#\PaketKostenrechner\PaketKostenrechner\obj\Debug\PaketKostenrechner.exe
+D:\c#\PaketKostenrechner\PaketKostenrechner\obj\Debug\PaketKostenrechner.pdb

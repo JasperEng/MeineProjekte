@@ -1,0 +1,10 @@
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\bin\Debug\Satz des Pythagoras.exe
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\bin\Debug\Satz des Pythagoras.pdb
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\obj\Debug\Satz_des_Pythagoras.Form1.resources
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\obj\Debug\Satz_des_Pythagoras.Properties.Resources.resources
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\obj\Debug\Satz des Pythagoras.csproj.GenerateResource.Cache
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\obj\Debug\Satz des Pythagoras.exe
+C:\Users\jasper.engeln\AppData\Local\Temporary Projects\Satz des Pythagoras\obj\Debug\Satz des Pythagoras.pdb
+D:\c#\Satz des Pythagoras\Satz des Pythagoras\obj\Debug\Satz des Pythagoras.exe
+D:\c#\Satz des Pythagoras\Satz des Pythagoras\obj\Debug\Satz des Pythagoras.pdb

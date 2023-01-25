@@ -1,0 +1,10 @@
+\\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.exe
+K:\THBM1\SYANW (GUT)\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.exe
+D:\c#\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.exe
+D:\c#\Volumenberechnung\Volumenberechnung\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.Form1.resources
+D:\c#\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.Properties.Resources.resources
+D:\c#\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.csproj.GenerateResource.Cache
+D:\c#\Volumenberechnung\Volumenberechnung\bin\Debug\Volumenberechnung.exe
+D:\c#\Volumenberechnung\Volumenberechnung\bin\Debug\Volumenberechnung.pdb
+D:\c#\Volumenberechnung\Volumenberechnung\obj\Debug\Volumenberechnung.pdb

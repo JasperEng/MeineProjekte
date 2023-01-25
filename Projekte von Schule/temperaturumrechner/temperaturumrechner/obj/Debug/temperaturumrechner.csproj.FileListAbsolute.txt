@@ -1,0 +1,8 @@
+D:\c#\temperaturumrechner\temperaturumrechner\bin\Debug\temperaturumrechner.exe
+D:\c#\temperaturumrechner\temperaturumrechner\bin\Debug\temperaturumrechner.pdb
+D:\c#\temperaturumrechner\temperaturumrechner\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\temperaturumrechner\temperaturumrechner\obj\Debug\temperaturumrechner.Form1.resources
+D:\c#\temperaturumrechner\temperaturumrechner\obj\Debug\temperaturumrechner.Properties.Resources.resources
+D:\c#\temperaturumrechner\temperaturumrechner\obj\Debug\temperaturumrechner.csproj.GenerateResource.Cache
+D:\c#\temperaturumrechner\temperaturumrechner\obj\Debug\temperaturumrechner.exe
+D:\c#\temperaturumrechner\temperaturumrechner\obj\Debug\temperaturumrechner.pdb

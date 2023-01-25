@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Volumenberechnung">
+</Property><Property Name="Projektmappendatei" Value="\\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Volumenberechnung.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="\\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Volumenberechnung.suo">
+</Property><Property Name="Date" Value="Freitag, 11. Februar 2022">
+</Property><Property Name="Time" Value="13:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Volumenberechnung.sln" Description="Datei wurde erfolgreich als &quot;\\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung.sln&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="Volumenberechnung.suo" Description="Datei wurde erfolgreich als &quot;\\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung.suo&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Volumenberechnung.csproj" Description="Projektdatei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Volumenberechnung.csproj">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Form1.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Form1.Designer.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Program.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Program.cs">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Properties\Resources.Designer.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Properties\Settings.Designer.cs" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Properties\Settings.settings" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Form1.resx" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Properties\Resources.resx" Description="Datei erfolgreich gesichert als \\gel-srv01\benutzer$\frank.guthoff\Desktop\Volumenberechnung\Backup\Volumenberechnung\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Volumenberechnung.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Volumenberechnung" Source="Volumenberechnung\Volumenberechnung.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Volumenberechnung.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="Volumenberechnung.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Volumenberechnung" Source="Volumenberechnung\Volumenberechnung.csproj" Description="Überprüfung abgeschlossen: Aktualisierung von Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

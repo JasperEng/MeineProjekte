@@ -1,0 +1,8 @@
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\bin\Debug\Wiederstandsrecher.exe
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\bin\Debug\Wiederstandsrecher.pdb
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\obj\Debug\Wiederstandsrecher.Form1.resources
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\obj\Debug\Wiederstandsrecher.Properties.Resources.resources
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\obj\Debug\Wiederstandsrecher.csproj.GenerateResource.Cache
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\obj\Debug\Wiederstandsrecher.exe
+D:\c#\Wiederstandsrecher\Wiederstandsrecher\obj\Debug\Wiederstandsrecher.pdb

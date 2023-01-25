@@ -1,0 +1,133 @@
+h1{
+	color: white;
+}
+
+p{
+	color: white;
+	
+	
+}
+h2{
+	color: white;
+}
+
+body{
+	
+	background-repeat: no-repeat;
+	position: fixed;
+}
+
+
+
+#Mainbg{
+	background-size: 100%;
+}
+
+#pue{
+	background-size: 100%;
+}
+
+#bgSer{
+	background-size: 100%
+}
+
+#pG{
+	background-size:100%;
+}
+#VPSB{
+  background-size: 100%;
+}
+table tr:nth-child(even) { 
+  background-color: #e4ebf2; 
+  color: #000; 
+}
+
+/* sidebar */
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #7d7d7d;
+  position: fixed;
+  height: 98%;
+  overflow: auto;
+  opacity: 1;
+  border-style: solid;
+  border-radius: 5%
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidebar a.active {
+  background-color: yellow;
+  color: black;
+  border-radius: 5%
+}
+
+.sidebar  a:hover{
+  background-color: black;
+  color: white;
+  border-radius: 5%
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+
+#Textbg {
+  margin: 0px 10px 450px 450px;
+  padding: 20px ;
+  width: 62%;
+  background-color: #7d7d7d;
+  position: fixed;
+  height: 94%;
+  overflow: auto;
+  opacity: 1;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5%
+}
+
+.pokeballb{
+  height:  13%;
+  width: 13%;
+  animation-name: Welt;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+
+@keyframes Welt {
+	0%  {transform: rotate(45deg)}
+	100% {transform: rotate(-45deg)}
+
+
+
+}
+
+
